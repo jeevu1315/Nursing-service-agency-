@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Nursing Service Agency</string>
+    <string name="title_activity_main">Nursing Service Agency</string>
+    <string name="package_name">com.nursingserviceagency.app</string>
+    <string name="custom_url_scheme">com.nursingserviceagency.app</string>
+</resources>

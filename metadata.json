@@ -1,0 +1,6 @@
+{
+  "name": "Nursing Service Agency",
+  "description": "Professional Care, Compassionate Service — Mobile-first nursing care agency application with PWA and Capacitor Android support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
